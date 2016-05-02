@@ -1,0 +1,5 @@
+Enter Draw Path Mode
+computing...size: 59328
+206 288 86023 finished
+
+Node Number: 1000
